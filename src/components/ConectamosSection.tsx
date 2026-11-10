@@ -88,7 +88,7 @@ export const ConectamosSection: React.FC<ConectamosSectionProps> = ({
               {/* Platform screenshot */}
               <div className="relative">
                 <img
-                  src="/images/platform-screenshot.png"
+                  src="./images/platform-screenshot.png"
                   alt="Plataforma Coslink Global"
                   className="w-full h-auto object-cover filter contrast-105"
                 />
@@ -96,7 +96,7 @@ export const ConectamosSection: React.FC<ConectamosSectionProps> = ({
                 {/* Coslink floating badge */}
                 <div className="absolute top-4 left-4 p-3 rounded-xl bg-[#08121A]/90 border border-[#1C384D] backdrop-blur-md shadow-xl flex items-center gap-3">
                   <img
-                    src="/assets/aistudio/coslink_mark.png"
+                    src="./assets/aistudio/coslink_mark.png"
                     alt="Coslink"
                     className="w-8 h-8 object-contain"
                   />

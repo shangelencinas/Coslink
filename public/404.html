@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <title>Coslink Global</title>
+    <script type="text/javascript">
+      // GitHub Pages SPA redirect
+      var l = window.location;
+      var pathSegmentsToKeep = 1;
+      var repoPath = l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/');
+      window.location.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') + repoPath + '/'
+      );
+    </script>
+  </head>
+  <body style="background:#08121A;color:#fff;font-family:sans-serif;display:flex;align-items:center;justify-content:center;height:100vh;margin:0;">
+    <p>Redirigiendo a Coslink Global...</p>
+  </body>
+</html>

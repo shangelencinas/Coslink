@@ -20,7 +20,7 @@ export const Hero: React.FC<HeroProps> = ({
       {/* Background with real mining image and deep gradient overlays */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/images/hero-bg.jpg"
+          src="./images/hero-bg.jpg"
           alt="Coslink - Ecosistema Minero"
           className="w-full h-full object-cover object-center scale-105 filter brightness-75 contrast-110"
         />

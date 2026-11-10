@@ -33,7 +33,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({ isOpen, onClose, currentLa
         <div className="flex items-center justify-between px-6 py-4 bg-[#0E1F2C] border-b border-[#1C384D]">
           <div className="flex items-center gap-3">
             <img
-              src="/assets/aistudio/coslink_mark.png"
+              src="./assets/aistudio/coslink_mark.png"
               alt="Coslink"
               className="w-7 h-7 object-contain"
             />

@@ -153,7 +153,7 @@ export const NosotrosView: React.FC<NosotrosViewProps> = ({
             {/* Image 1: Field team */}
             <div className="relative rounded-2xl overflow-hidden border border-[#1C384D] group shadow-xl">
               <img
-                src="/images/team-geophysics.jpg"
+                src="./images/team-geophysics.jpg"
                 alt="Equipo realizando trabajo geofísico en campo"
                 className="w-full h-80 object-cover object-center group-hover:scale-105 transition-transform duration-500"
               />
@@ -174,7 +174,7 @@ export const NosotrosView: React.FC<NosotrosViewProps> = ({
             {/* Image 2: Industry Presence */}
             <div className="relative rounded-2xl overflow-hidden border border-[#1C384D] group shadow-xl">
               <img
-                src="/images/conference-pdac.jpg"
+                src="./images/conference-pdac.jpg"
                 alt="Coslink presente en foros y convenciones de la industria minera"
                 className="w-full h-80 object-cover object-center group-hover:scale-105 transition-transform duration-500"
               />
@@ -235,7 +235,7 @@ export const NosotrosView: React.FC<NosotrosViewProps> = ({
                 <div className="rounded-2xl bg-[#08121A] border border-[#1C384D] p-8 text-center shadow-xl">
                   <div className="mb-6 flex justify-center">
                     <img
-                      src="/images/logoCOSMIN_white.png"
+                      src="./images/logoCOSMIN_white.png"
                       alt="COSMIN - Centro Operativo de Servicios Mineros"
                       className="h-16 w-auto object-contain filter drop-shadow-md"
                     />

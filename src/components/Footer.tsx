@@ -30,7 +30,7 @@ export const Footer: React.FC<FooterProps> = ({
           <div className="lg:col-span-5 space-y-4">
             <div className="flex items-center gap-3">
               <img
-                src="/assets/aistudio/coslink_logo_white.png"
+                src="./assets/aistudio/coslink_logo_white.png"
                 alt="Coslink - Where Mining Connects"
                 className="h-12 w-auto object-contain"
               />

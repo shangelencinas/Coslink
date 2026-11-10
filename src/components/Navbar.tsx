@@ -54,7 +54,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             aria-label="Coslink Global - Home"
           >
             <img
-              src="/assets/aistudio/coslink_logo_white.png"
+              src="./assets/aistudio/coslink_logo_white.png"
               alt="Coslink Global - Where Mining Connects"
               className="h-11 sm:h-12 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
             />
