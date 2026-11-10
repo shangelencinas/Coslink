@@ -1,0 +1,8 @@
+{
+  "name": "Remix Coslink Global - Proyectos Mineros Validados",
+  "description": "Plataforma para la conexión estratégica entre concesionarios mineros, inversionistas y proveedores especializados en minería.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
