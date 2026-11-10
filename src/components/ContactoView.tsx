@@ -173,7 +173,7 @@ export const ContactoView: React.FC<ContactoViewProps> = ({ currentLang }) => {
                         {t.contact.whatsappLabel}
                       </div>
                       <div className="text-base font-semibold text-white group-hover:text-emerald-300 transition-colors">
-                        wa.link/71ruf0 (+52 662 473 8673)
+                        +52 662 354 9893
                       </div>
                       <div className="text-xs text-emerald-400/90 mt-0.5">
                         Haz clic aquí para chatear directamente en WhatsApp
@@ -250,7 +250,7 @@ export const ContactoView: React.FC<ContactoViewProps> = ({ currentLang }) => {
                 <div className="mb-8">
                   <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-950/70 border border-emerald-500/40 text-emerald-400 text-xs font-semibold mb-3">
                     <MessageCircle className="w-3.5 h-3.5" />
-                    <span>WhatsApp (+52 662 473 8673)</span>
+                    <span>WhatsApp (+52 662 354 9893)</span>
                   </div>
                   <h3 className="text-2xl font-bold font-display text-white mb-2">
                     {t.contact.formTitle}
@@ -291,7 +291,7 @@ export const ContactoView: React.FC<ContactoViewProps> = ({ currentLang }) => {
                       <div className="text-left bg-[#08121A] border border-[#1C384D] rounded-2xl p-5 mb-6 max-w-lg mx-auto text-xs text-slate-300 space-y-2">
                         <div className="text-[11px] uppercase tracking-wider text-emerald-400 font-bold mb-2 flex items-center justify-between">
                           <span>Resumen de tu mensaje</span>
-                          <span className="text-slate-500 font-mono">+52 662 473 8673</span>
+                          <span className="text-slate-500 font-mono">+52 662 354 9893</span>
                         </div>
                         <div><span className="text-slate-400 font-medium">Nombre:</span> {sentSummary.nombre}</div>
                         {sentSummary.empresa && <div><span className="text-slate-400 font-medium">Empresa:</span> {sentSummary.empresa}</div>}

@@ -53,7 +53,7 @@ export const Footer: React.FC<FooterProps> = ({
                   rel="noopener noreferrer"
                   className="hover:text-emerald-300 font-semibold underline underline-offset-2 transition-colors"
                 >
-                  WhatsApp: wa.link/71ruf0
+                  WhatsApp: +52 662 354 9893
                 </a>
               </div>
             </div>
